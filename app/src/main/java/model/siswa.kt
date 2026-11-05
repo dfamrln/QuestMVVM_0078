@@ -1,6 +1,4 @@
-package model
-
-package com.example.myarsitekturmvvm.model
+package com.example.pertemuan8.model
 
 data class Siswa(
     val nama : String = "",
